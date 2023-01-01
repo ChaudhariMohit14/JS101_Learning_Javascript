@@ -1,0 +1,21 @@
+let heading="         \\REPORT CARD\\        ";
+console.log(heading);
+let a="_______________________________________";
+console.log(a);
+let name="ℕ𝕒𝕞𝕖:- 𝕄𝕠𝕙𝕚𝕥 ℂ𝕙𝕒𝕦𝕕𝕙𝕒𝕣𝕚";
+console.log(name);
+let school="𝕊𝕔𝕙𝕠𝕠𝕝:- ℂ𝕙𝕒𝕧𝕒𝕣𝕒 𝔼𝕟𝕘𝕝𝕚𝕤𝕙 𝕄𝕖𝕕𝕚𝕦𝕞 𝕊𝕔𝕙𝕠𝕠𝕝";
+console.log(school);
+let grade="𝔾𝕣𝕒𝕕𝕖:- 𝟟";
+let section="𝕊𝕖𝕔𝕥𝕚𝕠𝕟:- 𝔸";
+console.log(grade, section);
+let rollno="ℝ𝕠𝕝𝕝 ℕ𝕠.:- 𝟚𝟝";
+console.log(rollno);
+let b="****************************************";
+console.log(b)
+let subject="𝐄𝐧𝐠𝐥𝐢𝐬𝐡= 𝟖𝟕";
+console.log(subject);
+subject="𝐒𝐜𝐢𝐞𝐧𝐜𝐞= 𝟗𝟑";
+console.log(subject);
+subject="𝐌𝐚𝐭𝐡𝐬=𝟗𝟔";
+console.log(subject);
